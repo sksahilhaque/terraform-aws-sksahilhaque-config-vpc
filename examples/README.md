@@ -1,15 +1,4 @@
-# AWS VPC Terraform Module
-
-This Terraform module creates a VPC with customizable network configuration in AWS.
-
-## Features
-
-- Creates a VPC with specified CIDR block
-- Creates public and private subnets across multiple availability zones
-- Configures internet gateway for public subnets
-- Sets up NAT gateways for private subnets
-- Configures route tables and associations
-- Enables DNS hostnames and DNS support
+# This is a complete usage to work with this terraform module.
 
 ## Usage
 
